@@ -1,5 +1,6 @@
 [<img src="./src/readme/banner.gif" />](https://suryakannankumbhar.netlify.app/)
 <br />
+
 <h1 align="center">Track My Money</h1>
 
 <div><img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="250px" align='right'>
@@ -26,11 +27,3 @@ Speech Detection feature of the app is implemented by using Speechly API
 <kbd><img src="./src/readme/Screenshot%202022-07-21%20000219.png" width="750" title=""></kbd>
 <kbd><img src="./src/readme/Screenshot%202022-07-21%20000408.png" width="750" title=""></kbd>
 <kbd><img src="./src/readme/Screenshot%202022-07-21%20000433.png" width="750" title=""></kbd>
-
-<br >
-<h3>some github stats?</h3>
-<p align="center"><a href="https://github.com/suryakannankumbhar/github-readme-stats"><img alt="Surya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suryakannankumbhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
-<p align="center"><a href="https://github.com/suryakannankumbhar/github-readme-stats"><img alt="Surya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakannankumbhar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
-<p align="center"><a href="https://github.com/suryakannankumbhar/github-readme-activity-graph"><img alt="Surya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suryakannankumbhar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakannankumbhar&theme=highcontrast&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="suryakannankumbhar" /></p>
-<br />
